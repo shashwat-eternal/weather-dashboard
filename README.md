@@ -1,7 +1,7 @@
 # 🌦️ Weather Dashboard
 
 A premium **Weather Analytics Dashboard** built using **Python, Streamlit, Open-Meteo API, Pandas, and Matplotlib**.  
-The application provides **real-time weather insights, 24-hour forecasts, 7-day weather trends, interactive charts, and downloadable forecast data** through a clean dashboard-style interface.
+The application provides **real-time weather insights, 24-hour forecasts, 7-day weather trends, interactive charts, and downloadable forecast data** through a clean dashboard-style interface ☁️ 
 
 ---
 
